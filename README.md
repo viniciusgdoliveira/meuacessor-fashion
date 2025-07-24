@@ -10,11 +10,9 @@ This project is a proof-of-concept exploring how AI can assist users in making b
 
 ## 📦 Tech Stack
 
-- **Python** (or insert your main programming language)
-- **OpenAI GPT/Whisper** for language and audio processing
-- **Image Processing** with (e.g., PIL, OpenCV, CLIP, etc.)
-- **Streamlit / Flask / Gradio** (if applicable) for UI
-- **Other Tools/Libraries**: List them here if relevant
+- **Python**
+- **OpenAI** for language, image and audio processing
+- **Flask** (if applicable) for UI
 
 ## 📸 How It Works
 
